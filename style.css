@@ -1,0 +1,13 @@
+.nav-icon {
+  font-size: 40px;
+  margin: 10px;
+}
+
+.nav-link {
+  color: black;
+}
+
+#hero-image {
+  height: 50%;
+  width: 50%;
+}
