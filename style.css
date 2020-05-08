@@ -26,6 +26,20 @@ a {
   color: olive;
 }
 
+img {
+  box-shadow: 5px 5px 5px #ccc;
+  -moz-box-shadow: 5px 5px 5px #ccc;
+  -webkit-box-shadow: 5px 5px 5px #ccc;
+  -khtml-box-shadow: 5px 5px 5px #ccc;
+}
+
+h4 {
+  text-shadow: 2px 2px 2px #ccc;
+  -moz-text-shadow: 2px 2px 2px #ccc;
+  -webkit-text-shadow: 2px 2px 2px #ccc;
+  -khtml-text-shadow: 2px 2px 2px #ccc;
+}
+
 a:hover {
   text-decoration: none;
   transform: translateY(-1px);
